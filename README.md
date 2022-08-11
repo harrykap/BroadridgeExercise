@@ -21,7 +21,7 @@ Connection data is in the file **connections.txt** as comma-delimited pairs sepa
 
 ## Running unit tests
 
-run **node --experimental-vm-modules node_modules/jest/bin/jest.js** (necessarry to get around issues with ESScript modules
+In the working directory, run **node --experimental-vm-modules node_modules/jest/bin/jest.js** (necessary to get around issues with ES Modules)
 
 
 
