@@ -4,7 +4,7 @@ Builds an undirected graph from comma delimited pairs contained in the file 'con
 
 ## Notes
 
-Developed and tested in Node v18.7.0.   Unit tests might night work in lower versions especially those below v14.13.1
+Developed and tested in Node v18.7.0.   Unit tests might not work in lower versions, especially those below v14.13.1
 
 ## Installing
 
